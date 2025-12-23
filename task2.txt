@@ -1,0 +1,7 @@
+:\Users\Asus\PycharmProjects\PythonProject\.venv\Scripts\python.exe C:\Users\Asus\PycharmProjects\PythonProject\main.py 
+
+enter your name:alex
+enter your second name:black
+Hello, alex black welocme to programe python
+
+Process finished with exit code 0
