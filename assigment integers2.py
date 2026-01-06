@@ -7,3 +7,7 @@ for i in range(1, 51):
 
 # Display the final sum
 print("The sum of integers from 1 to 50 is:", total)
+
+The sum of integers from 1 to 50 is: 1275
+
+Process finished with exit code 0
