@@ -8,3 +8,11 @@ if number % 2 == 0:
     print("The number is Even")
 else:
     print("The number is Odd")
+    
+Enter an number: 12
+The number is Even
+
+Enter an number: 3
+The number is Odd
+
+Process finished with exit code
