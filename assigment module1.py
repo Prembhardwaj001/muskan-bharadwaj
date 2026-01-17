@@ -12,3 +12,6 @@ result = factorial(number)
 
 # Output
 print("Factorial of", number, "is:", result)
+
+
+Factorial of 5 is: 120
