@@ -15,3 +15,5 @@ print("Factorial of", number, "is:", result)
 
 
 Factorial of 5 is: 120
+Process finished with exit code 0
+
