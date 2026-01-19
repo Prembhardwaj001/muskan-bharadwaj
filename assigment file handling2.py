@@ -16,3 +16,13 @@ print("\nFinal content of the file:")
 with open("output.txt", "r") as file:
     for line in file:
         print(line.strip())
+        
+
+Enter text to write into the file: hello world,
+Enter text to append into the file: we are learnig python programr. 
+
+Final content of the file:
+hello world.
+we are learnig python programr.
+
+Process finished with exit code 0
