@@ -12,3 +12,8 @@ try:
 except FileNotFoundError:
     # Handle the error if file does not exist
     print("Error: The file 'sample.txt' does not exist.")
+    
+
+Error: The file 'sample.txt' does not exist.
+
+Process finished with exit code 0
