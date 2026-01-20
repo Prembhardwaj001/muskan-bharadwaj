@@ -19,4 +19,8 @@ else:
 Enter the student's name: Sneha
 Sneha's marks are: 88
 
+Enter the student's name: sakshi
+Student not found.
+
 Process finished with exit code 0
+
