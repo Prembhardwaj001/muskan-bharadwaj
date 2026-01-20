@@ -14,3 +14,9 @@ if name in student_marks:
     print(f"{name}'s marks are: {student_marks[name]}")
 else:
     print("Student not found.")
+    
+
+Enter the student's name: Sneha
+Sneha's marks are: 88
+
+Process finished with exit code 0
