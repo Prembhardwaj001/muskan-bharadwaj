@@ -1,28 +1,12 @@
-# Step 1: Take user input and write it to the file
-text = input("Enter text to write into the file: ")
+# Step 1: Create a list of numbers from 1 to 10
+numbers = list(range(1, 11))
 
-with open("output.txt", "w") as file:
-    file.write(text + "\n")
+# Step 2: Extract the first five elements
+first_five = numbers[:5]
 
-# Step 2: Take more input and append it to the same file
-more_text = input("Enter text to append into the file: ")
+# Step 3: Reverse the extracted elements
+reversed_list = first_five[::-1]
 
-with open("output.txt", "a") as file:
-    file.write(more_text + "\n")
-
-# Step 3: Read and display the final content of the file
-print("\nFinal content of the file:")
-
-with open("output.txt", "r") as file:
-    for line in file:
-        print(line.strip())
-        
-
-Enter text to write into the file: hello world,
-Enter text to append into the file: we are learnig python programr. 
-
-Final content of the file:
-hello world.
-we are learnig python programr.
-
-Process finished with exit code 0
+# Step 4: Print both lists
+print("Extracted list (first five elements):", first_five)
+print("Reversed list:", reversed_list)
