@@ -10,3 +10,9 @@ reversed_list = first_five[::-1]
 # Step 4: Print both lists
 print("Extracted list (first five elements):", first_five)
 print("Reversed list:", reversed_list)
+
+
+Extracted list (first five elements): [1, 2, 3, 4, 5]
+Reversed list: [5, 4, 3, 2, 1]
+
+Process finished with exit code 0
